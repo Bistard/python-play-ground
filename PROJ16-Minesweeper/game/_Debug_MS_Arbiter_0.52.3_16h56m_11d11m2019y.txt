@@ -1,0 +1,21 @@
+16:56:56:195 hack found. abnormal program termination
+16:56:56:190 weird time
+16:29:12:153 you are too slow. sorry, game is over
+15:50:24:458 you are too slow. sorry, game is over
+15:39:51:944 weird time
+14:19:54:220 you are too slow. sorry, game is over
+14:00:49:536 you are too slow. sorry, game is over
+13:35:15:258 ---
+13:35:15:257 who of them got the skills to test me?
+13:35:15:256 ---
+13:35:15:256 warp field stabilized. opening gate to the minesweeper world
+13:35:15:254 encrypt_engine test ok
+13:35:15:253 encrypt_engine testing ...
+13:35:15:253 ---
+13:35:15:252 language  | 00000409
+13:35:15:250 timezone  | Eastern Standard Time (GMT -5:00)
+13:35:15:249 platform  | Windows NT 6.2 build 9200, 
+13:35:15:248 memory    | 1848,0 of 2047,0 MB RAM free
+13:35:15:247 cpu speed | run the command get_cpu_speed
+13:35:15:246 date      | Mon, 11.11.2019, process 0x000D07B0 launched
+13:35:15:224 path      | C:\USERS\76813\ONEDRIVE\PYTHON FILES\PROJ16-MINESWEEPER\GAME\

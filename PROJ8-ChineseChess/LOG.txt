@@ -1,0 +1,13 @@
+chinese chess LOG:
+
+	return_coor_plate 和 update_c_coor_plate 可以整合;
+
+	ju的逻辑可以整合;
+
+	pao的逻辑可以整合;
+
+bug:
+
+	象可以过河
+	
+	老将对位bug

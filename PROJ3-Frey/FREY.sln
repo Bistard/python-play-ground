@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FREY", "FREY\FREY.pyproj", "{6CAD23D5-76F5-4831-A00F-B56DC6135F1D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{F4A3DC7A-B009-418C-B720-AC1EAEC41ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAD23D5-76F5-4831-A00F-B56DC6135F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAD23D5-76F5-4831-A00F-B56DC6135F1D}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{6CAD23D5-76F5-4831-A00F-B56DC6135F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAD23D5-76F5-4831-A00F-B56DC6135F1D}.Release|Default.ActiveCfg = Release|Any CPU
+		{F4A3DC7A-B009-418C-B720-AC1EAEC41ACB}.Debug|Any CPU.ActiveCfg = Debug
+		{F4A3DC7A-B009-418C-B720-AC1EAEC41ACB}.Debug|Default.ActiveCfg = Debug
+		{F4A3DC7A-B009-418C-B720-AC1EAEC41ACB}.Release|Any CPU.ActiveCfg = Debug
+		{F4A3DC7A-B009-418C-B720-AC1EAEC41ACB}.Release|Default.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC434CE6-0696-4556-AAEA-A6982C43BF6E}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal

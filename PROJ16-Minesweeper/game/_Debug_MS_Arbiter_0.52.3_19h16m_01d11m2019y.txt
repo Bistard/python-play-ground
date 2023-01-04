@@ -1,0 +1,16 @@
+19:16:50:259 hack found. abnormal program termination
+19:16:50:258 weird time
+19:05:11:064 ---
+19:05:11:063 who of them got the skills to test me?
+19:05:11:046 ---
+19:05:11:025 warp field stabilized. opening gate to the minesweeper world
+19:05:11:023 encrypt_engine test ok
+19:05:11:022 encrypt_engine testing ...
+19:05:11:020 ---
+19:05:11:019 language  | 00000409
+19:05:11:015 timezone  | Eastern Standard Time (GMT -5:00)
+19:05:11:013 platform  | Windows NT 6.2 build 9200, 
+19:05:11:011 memory    | 1311,9 of 2047,0 MB RAM free
+19:05:11:010 cpu speed | run the command get_cpu_speed
+19:05:11:009 date      | Fri, 01.11.2019, process 0x00490CEA launched
+19:05:10:966 path      | C:\USERS\76813\ONEDRIVE\PYTHON FILES\PROJ16-MINESWEEPER\GAME\

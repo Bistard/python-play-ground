@@ -1,0 +1,36 @@
+00:12:20:935 hack found. abnormal program termination
+00:12:20:934 weird time
+00:10:59:543 weird time
+00:10:55:130 data clearance done for custom board 8x8, 55 mines
+00:10:55:124 custom mode selected
+00:10:43:592 custom mode dismissed
+00:10:35:945 memory_usage: [00:10] 1681940480 ==> free 37928960
+00:10:35:944 beginner mode selected
+00:08:28:699 custom mode dismissed
+00:07:19:732 custom mode dismissed
+00:05:45:852 memory_usage: [00:05] 1719869440 ==> used 9330688
+00:05:45:850 data clearance done for custom board 30x16, 150 mines
+00:05:45:844 custom mode selected
+00:04:02:431 memory_usage: [00:04] 1710538752 ==> free 136445952
+00:04:02:429 expert mode selected
+23:20:46:109 weird time
+23:20:45:934 weird time
+23:18:35:504 weird time
+23:12:53:295 weird time
+23:12:52:489 weird time
+22:05:28:038 weird time
+21:50:07:305 expert mode selected
+21:50:00:424 ---
+21:50:00:423 who of them got the skills to test me?
+21:50:00:421 ---
+21:50:00:420 warp field stabilized. opening gate to the minesweeper world
+21:50:00:418 encrypt_engine test ok
+21:50:00:417 encrypt_engine testing ...
+21:50:00:415 ---
+21:50:00:413 language  | 00000409
+21:50:00:412 timezone  | Eastern Standard Time (GMT -5:00)
+21:50:00:410 platform  | Windows NT 6.2 build 9200, 
+21:50:00:409 memory    | 1761,4 of 2047,0 MB RAM free
+21:50:00:407 cpu speed | run the command get_cpu_speed
+21:50:00:405 date      | Mon, 28.10.2019, process 0x00CA0CC0 launched
+21:50:00:374 path      | C:\USERS\76813\ONEDRIVE\PYTHON FILES\PROJ16-MINESWEEPER\GAME\

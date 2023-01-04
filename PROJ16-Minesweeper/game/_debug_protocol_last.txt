@@ -1,0 +1,15 @@
+16:38:31:750 preferences saved
+16:38:27:112 ---
+16:38:27:111 who of them got the skills to test me?
+16:38:27:110 ---
+16:38:27:109 warp field stabilized. opening gate to the minesweeper world
+16:38:27:108 encrypt_engine test ok
+16:38:27:106 encrypt_engine testing ...
+16:38:27:105 ---
+16:38:27:105 language  | 00000409
+16:38:27:104 timezone  | China Standard Time (GMT +8:00)
+16:38:27:103 platform  | Windows NT 6.2 build 9200, 
+16:38:27:102 memory    | 1837,7 of 2047,0 MB RAM free
+16:38:27:101 cpu speed | run the command get_cpu_speed
+16:38:27:101 date      | Thu, 24.12.2020, process 0x00040656 launched
+16:38:27:076 path      | C:\USERS\76813\ONEDRIVE\DEV\PYTHON FILES\PROJ16-MINESWEEPER\GAME\

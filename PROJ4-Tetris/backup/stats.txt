@@ -1,0 +1,9 @@
+Highest Score :50000
+Highest Level :8
+Lines cleared :1010
+Time :5.0.0
+Singles :40
+Doubles :32
+Triples :30
+Tetrises :6
+Date Achieved :6/17/2018
